@@ -3,4 +3,4 @@ This is a CM3+ version of the MT32Pi hardware. All layout is done in Kicad and I
 
 This project is a hardware implementation designed to work with [MT32-Pi](https://github.com/dwhinham/mt32-pi)
 
-![Board](doc/board.png)
+![Board](docs/board.png)
