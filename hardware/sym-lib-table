@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name voltage_reg)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/voltage_reg.lib)(options "")(descr ""))
+  (lib (name uSD_card)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/uSD_card.lib)(options "")(descr ""))
+  (lib (name tfp401a)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/tfp401a.lib)(options "")(descr ""))
+  (lib (name test_point)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/test_point.lib)(options "")(descr ""))
+  (lib (name spdt_switch)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/spdt_switch.lib)(options "")(descr ""))
+  (lib (name mounting_point)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/mounting_point.lib)(options "")(descr ""))
+  (lib (name ddr2_sodimm)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/ddr2_sodimm.lib)(options "")(descr ""))
+  (lib (name batt_charg)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/batt_charg.lib)(options "")(descr ""))
+  (lib (name uSD_push-push_ebay)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/uSD_push-push_ebay.lib)(options "")(descr ""))
+  (lib (name RCJ-2223)(type Legacy)(uri ${KIPRJMOD}/Pi-Library/RCJ-2223.lib)(options "")(descr ""))
+  (lib (name amiga500)(type Legacy)(uri /home/davidm/Documents/Eiconom/protovulcan/content/projects/amiga/a314cm3/amiga500.lib)(options "")(descr ""))
+)

@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# RCJ-2223
+#
+DEF RCJ-2223 U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I L BNN
+F1 "RCJ-2223" 0 0 50 H I L BNN
+F2 "DUALRCA" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+C -800 200 141 0 0 10 N
+C -800 600 141 0 0 10 N
+P 2 0 0 10 -800 200 -300 200 N
+P 2 0 0 10 -800 600 -300 600 N
+P 2 0 0 10 -800 300 -800 400 N
+P 2 0 0 10 -800 500 -800 400 N
+P 2 0 0 10 -800 400 -300 400 N
+P 2 0 0 10 -1000 0 -1000 800 N
+P 2 0 0 10 -1000 800 -600 800 N
+P 2 0 0 10 -600 800 -600 0 N
+P 2 0 0 10 -600 0 -1000 0 N
+P 2 0 0 10 -1000 0 -1000 -100 N
+P 2 0 0 10 -600 0 -600 -100 N
+X TOP P$3 -100 600 200 L 40 40 0 0 B 
+X GND P$1 -100 400 200 L 40 40 0 0 B 
+X BTM P$2 -100 200 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
